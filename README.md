@@ -64,3 +64,8 @@ Tip:
 site:docs.google.com/spreadsheets "company name“
 site:groups.google.com "company name"
 ```
+
+# Sumber
+```
+https://docs.google.com/presentation/d/1qDNztb5wOn04F0LWXUxV3Sc1cNNXnejV/view#slide=id.p14
+```
